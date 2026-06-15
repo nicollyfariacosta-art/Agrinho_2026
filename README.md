@@ -25,4 +25,16 @@ o objetivo do projeto é conscientizar os visitantes sobre a importancia do uso 
 
 O projeto conta com as seguintes funcionalidades:
 
--
+- 🏠​ com animação do ciclo da água na lavoura e apresentação do tema
+-​📱​ com ancoras suaves para todas as seções
+-🌱 sobre a jornada produtiva da soja: plantio direito ➔ colheita ➔ industria ➔ mesa
+- ​🖼️​ comparando plantio convencional vs plantio direito
+- ​💦​ pegada hidrica: usuario descobre  quantos litros de água são ecfonomizados com tecnicas sustentaveis
+- ​🧠​ sobre conservação de solo, água e rotaçao de cultura
+- ​🍃​ explicando tecnoligias: GPS, pivô inteligente barriguinhas, matéria orgânica
+-🎬​ mostrando como a soja vira óleo, farelo e biodiesel sustentavel
+- do ciclo da água no solo da lavoura
+- 📊​ com opções de contraste e aumento de fonte
+-♿​ para facilitar a leitura
+- 🔎​ para acessibilidade visual
+- 🌜 para diferentes tamanhos de tela: celualar, tablet e desktop
