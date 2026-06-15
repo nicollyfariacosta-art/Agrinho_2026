@@ -41,6 +41,7 @@ O projeto conta com as seguintes funcionalidades:
 
 
 
+
 💻 Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando apenas tecnologias básicas de front-end:
 
@@ -51,6 +52,9 @@ JavaScript
 ✅ Não foi utilizado Tailwind CSS.
 ✅ Não há programação CSS ou JavaScript interna/inline no arquivo HTML.
 ✅ Os arquivos de estilo e script estão separados e corretamente declarados.
+
+
+
 
 📁 Estrutura de Arquivos
 /
@@ -72,6 +76,9 @@ JavaScript
 
 
 
+    
+    
+    
     ▶️ Como Executar o Projeto
 Para visualizar o projeto localmente:
 
@@ -80,6 +87,10 @@ Para visualizar o projeto localmente:
 3 Abra o arquivo index.html em um navegador de internet;
 4 Navegue pelas seções do site utilizando o menu principal.
 Também é possível acessar o projeto publicado pelo GitHub Pages ou Vercel, por meio do link disponível na seção About deste repositório.
+
+
+
+
 
 ♿ Acessibilidade
 O projeto inclui recursos de acessibilidade para melhorar a experiência dos usuários:
@@ -95,6 +106,10 @@ O projeto inclui recursos de acessibilidade para melhorar a experiência dos usu
 ⌨️ Fechamento de menus com a tecla Escape.
 Esses recursos tornam o site mais inclusivo e facilitam o acesso ao conteúdo por diferentes perfis de usuários.
 
+
+
+
+
 🌿 Sustentabilidade
 O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produção e meio ambiente, como:
 
@@ -108,6 +123,10 @@ O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produçã
 A proposta reforça que o futuro do agro depende de escolhas responsáveis, inovação e cuidado com os recursos naturais.
 
 
+ 
+ 
+ 
+ 
  Conceitos de Programação Aplicados
 Durante o desenvolvimento do projeto, foram aplicados conceitos importantes de programação front-end, como:
 
