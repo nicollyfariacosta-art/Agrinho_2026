@@ -39,7 +39,7 @@ O projeto conta com as seguintes funcionalidades:
 - 🔎​ para acessibilidade visual
 - 🌜 para diferentes tamanhos de tela: celualar, tablet e desktop
 
-
+---
 
 
 💻 Tecnologias Utilizadas
@@ -53,7 +53,7 @@ JavaScript
 ✅ Não há programação CSS ou JavaScript interna/inline no arquivo HTML.
 ✅ Os arquivos de estilo e script estão separados e corretamente declarados.
 
-
+---
 
 
 📁 Estrutura de Arquivos
@@ -75,9 +75,8 @@ JavaScript
     └── hq.html
 
 
-
-    
-    
+---
+     
     
     ▶️ Como Executar o Projeto
 Para visualizar o projeto localmente:
@@ -89,7 +88,7 @@ Para visualizar o projeto localmente:
 Também é possível acessar o projeto publicado pelo GitHub Pages ou Vercel, por meio do link disponível na seção About deste repositório.
 
 
-
+---
 
 
 ♿ Acessibilidade
@@ -107,7 +106,7 @@ O projeto inclui recursos de acessibilidade para melhorar a experiência dos usu
 Esses recursos tornam o site mais inclusivo e facilitam o acesso ao conteúdo por diferentes perfis de usuários.
 
 
-
+---
 
 
 🌿 Sustentabilidade
@@ -122,10 +121,7 @@ O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produçã
 🤝 Conexão entre desenvolvimento econômico e preservação ambiental.
 A proposta reforça que o futuro do agro depende de escolhas responsáveis, inovação e cuidado com os recursos naturais.
 
-
- 
- 
- 
+ ---
  
  Conceitos de Programação Aplicados
 Durante o desenvolvimento do projeto, foram aplicados conceitos importantes de programação front-end, como:
